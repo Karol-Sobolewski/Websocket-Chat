@@ -83,12 +83,17 @@ p {
     animation-duration: 3s;
 }
 
+.message--bot {
+  font-style: oblique;
+}
+
 .message__author {
   font-size: 0.8rem;
   font-weight: bold;
   color: #999;
   text-align: right;
 }
+
 
 .message__content {
   background: rgb(68, 68, 68);
